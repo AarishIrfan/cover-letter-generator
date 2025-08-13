@@ -1,4 +1,3 @@
-markdown
 # Cover Letter Generator with Ollama 2 (Llama2)
 
 A Python-based tool that helps job seekers automatically generate and polish cover letters using AI. It supports both English and German and saves polished letters to an output folder.
