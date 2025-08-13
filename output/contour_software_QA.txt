@@ -1,0 +1,14 @@
+Here is a polished version of the cover letter tailored to the job description:
+
+Dear Dr. Shiza,
+
+I am thrilled to apply for the QA Engineer position at Contour Software. As a highly motivated and detail-oriented individual with a strong background in Playwright, I am confident that I can make valuable contributions to your team's mission of delivering high-quality software products.
+
+With my experience in automating various aspects of the development process using Playwright, I believe I can bring a unique perspective to Contour Software. My proficiency in writing robust and reliable test cases has helped me identify and resolve issues quickly, ensuring that our clients receive the best possible products.
+
+In addition to my technical skills, I possess excellent communication and interpersonal abilities, which have allowed me to work effectively with cross-functional teams and stakeholders. My passion for quality assurance drives me to continuously improve processes and procedures, ensuring that our team is always delivering the best possible product.
+
+Thank you for considering my application. I would be honored to bring my skills and experience to Contour Software and contribute to your team's success.
+
+Sincerely,
+Aarish Irfan
